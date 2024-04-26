@@ -6,9 +6,10 @@
   box-sizing: border-box;
   font-family: "Inter", sans-serif;
 }
+
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bg-mobile.jpg)
+  --bg-url: url(./assets/bg-mobile.jpg);
   --strole-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
